@@ -1,0 +1,8 @@
+Estructura de computadora
+procesador
+memorias 
+Northbridge
+southbridge
+puertos PCI
+Gpu
+Puertos PCI-Express

@@ -1,0 +1,14 @@
+Protocolos avanzados
+    el router mediante tablas de enrutamiento, determinan que camino deben seguir los paquetes de datos
+    las tablas estan compuestas por la red de destino, el siguiente salto y la interfaz de salida.
+
+
+puertos
+  0-1023: etan eservados al SO
+  1024-49121: estan registrados y se usan por aplicaciones
+  49152-65535: dinamicos o privados para aplicaciones que  neceesiten conectarse a un servidor
+
+enrutamienoto externo
+    vpn
+    tor
+    

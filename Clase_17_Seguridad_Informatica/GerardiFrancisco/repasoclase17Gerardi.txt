@@ -1,0 +1,20 @@
+seguridad informatica
+seguridad activa, son medidas preventivas constantes para protejer un sistema informatico
+seguridad pasiva son medidas que se activan al sufrir un ataque.
+
+medios de proteccion
+
+proactivos
+    directivos
+    disuasivos
+    preventivos
+reactivos
+    detetectivos
+    correctivos
+
+auditorias
+    las auditorias son analisis exaustivos de sistemas de seguridad para determinar o hallar ataques o vulneravilidades
+
+hacking
+
+craking

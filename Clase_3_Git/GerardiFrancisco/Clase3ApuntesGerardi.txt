@@ -1,0 +1,3 @@
+Itroduccion a Git
+comandos Git (Git init; git commit;)
+creacion de repositorio

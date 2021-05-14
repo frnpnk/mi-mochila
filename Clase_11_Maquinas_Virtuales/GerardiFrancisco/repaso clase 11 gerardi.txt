@@ -1,0 +1,8 @@
+maquinas virtuales
+son un software que simula  un sistema de computacion.
+dependiendo su funcionamiento se dividen en:
+MV de sistema: virtualiza el hardware, permitiendo que una mismo equipo fisico ejecute multiples SO.
+MV de proceso:  se ejecuta dentro de un SO para un proceso especifico realizando una traduccion o inteptretacion para que este pueda ejecutarse.
+Escritorios remotos: nos permiten interactuar con el Gui de un equipo en una ubicacion remota.
+Contenedores: es un concepto de emaquetacion de software que incluye todas las dependencias del mismo para que este pueda ser ejecutado.
+

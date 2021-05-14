@@ -1,0 +1,22 @@
+ciberseguridad:
+disciplina dentro del campo de la informática encargada de la protección de sistemas, redes, programas e individuos de ataques
+    malware:
+         cualquier programa o código malicioso que es dañino para los sistemas,
+
+         virus
+         troyano
+         gusanos
+         adware
+         rootkit
+         botnet 
+         crimeware
+         ramsonware
+
+pilares de la seguridad de la informacion
+    integridad confidencialidad disponibilidad
+    medidas preventivas
+    medidas reactivas
+
+fallas es un error en un sistema unformatico tamb llamado bug
+vulnerabilidades son fallas de un sistema informatico que pone en riesgo los pilares
+                 de la seguridad de la informacion y estan desde la creacion o actualizacion del sistema.

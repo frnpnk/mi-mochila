@@ -1,0 +1,24 @@
+Sistemas operativos.
+
+el SO gestiona la memoria RAM y ejecuta aplicaciones asignando recursos
+administra el pocesasdo y  gestiona las entradas y salidas del hardwae
+administa archivos
+
+
+SO se dividen  por:
+    gestion de usuarios:
+        monousuario
+        multiusuarios
+    gestion de tareas
+        monotarea
+        multitarea
+    gestion de recursos
+        centralizado
+        distribuido
+    estructura interna
+        monolitica  mono procieso
+        Jerarquica
+        Maquina virtual
+
+    
+

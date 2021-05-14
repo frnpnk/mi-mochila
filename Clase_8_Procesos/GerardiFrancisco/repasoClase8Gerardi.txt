@@ -1,0 +1,7 @@
+Procesos
+estado de un proceso: Nuevo, listo, ejecución, bloqueado, salida
+
+FIFO: First in first out
+SJF: Shortest Job First
+SRTF: Shortest Remaning time First
+Round Robin: designa un quantum para ejecutar en cada proceso por igual hasta terminarlo.

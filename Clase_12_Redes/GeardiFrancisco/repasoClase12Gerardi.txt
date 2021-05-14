@@ -1,0 +1,15 @@
+Redes
+clasificacion por:
+
+extension geografica: lan man Wan
+por metodo fisico de conexion: medios giados/ medios no guiados
+por grado de autenticacion: red Privada o publica
+por grado de difusion: intranet extranet o internet
+
+caracteristicas
+    velocidad
+    seguridad
+    confiabilidad
+    escalabilidad
+    disponibilidad
+    

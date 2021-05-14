@@ -1,0 +1,16 @@
+memoria pimaria: vinculada directamente al cpu ej: cache ram
+memoria secundaria: vinculada al uso ej HSS SSD pendrive cd etc..
+
+
+las memorias tiene:
+    velocidad: expresada en MHz
+    capacidad: expresada en bites mb tb kb etc 
+    latencia: expresada en nanosegundos nanosegundos
+    Voltaje: de trabajo
+
+
+Paginación: es una tecnica de gestion de memoria que divide la memoria en paginas de igual tamaño y por medio de la paginacion se administran los espacios llamados paginas 
+
+Segmentación: contrio a las paginas la Segmentación divide a las memorias de un proceso en bloques distribuyendola de manera logica en segmentos
+
+Fragmentación: son los espacios vacios que quedan entre los bloques de un proceso y otro que ocupan un espacio dejadolo inutilizado, la defragmentacion ordena los bloques de memoria para compactarla y poder hacer uso de esos espacios.

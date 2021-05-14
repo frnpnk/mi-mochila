@@ -1,0 +1,27 @@
+Lenguajes  y paradigmas de la programacion 
+
+*Tipos de tipado:
+    tipado debil: mas flexibles respecto a los tipos de datos ej nodejs
+    tipado fuerte: extrictos respecto al tipo de dato, son mas expesivos por tanto se cometen menos errores pero el dubugueado puede ser mayor. ej python
+    tipdo estatico: deben ser compilados previo a su ejecucion, permite allar errores antes de su ejecucion. ej arduino
+    tipado dinamico: se tipifica en ejecucion, es mas dinamico pero mas lento y puede contener mas errores que es estatio, ej python
+
+paradigmas de la programacion
+    programacion imprerativa{
+        indica las tareas de manera secuncial{
+            programacionestructurada: mediante secuencias, condicionales y iteraciones(bucles)
+            POO: utiliza objetos y su interaccion.
+        }
+    }
+    proframacion declarativa{
+        describe el resultado esperado{
+            programacion Logica: se basa en conseptos de logica matematica
+            programacion funcional: basado en el concepto matematico y el principio de funcion.
+        }
+    }
+    programacion multiparadigma{
+        lenguajes que pueden contemplar mas de un paradigma
+    }
+    programacion  con lenguaje especifico de dominio{
+        engloba a los lenguajes desarrollados para problemas especificos ej cobol
+    }

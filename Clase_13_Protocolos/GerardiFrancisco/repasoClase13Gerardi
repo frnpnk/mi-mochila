@@ -1,0 +1,10 @@
+Protocolos
+IP, Internet Protocol: es el principal de los protocolos de Internet y es fundamental para el intercambio de mensajes en redes informáticas
+ademas el protocolo de control de transmisiones TCP, Transmission Control Protocol, sientan las bases de Internet
+otros protocoslos
+
+DNS: es un sistema de nomenclacion que permite la traduccion de nombre a direcciones IP
+TCP/IP: combinacion de tcp y IP
+UDP: USER DATAGRAM PROTOCOL. protocolo de envio de datos de alta velocidad dejando en segundo plano la integridad de los datos
+HTTP: protocolo de transferencia de Hipertexto
+https:HTTP Seguro
